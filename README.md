@@ -1,7 +1,7 @@
 # PDFKit Nodejs
 nodejs Express
 
-![image.png]( {Gambar.png} )
+![Gambar.png]( {Gambar.png} )
 
 ## install npm pdfkit
 ``` html
